@@ -1,55 +1,39 @@
-
-class Solution {
-    
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        int leftcount;
-        int count=1;
-        TreeNode(int val){
-            this.val=val;
-        }
-    }
-    
-    
+public class Solution {
     public List<Integer> countSmaller(int[] nums) {
-        if(nums.length==0) return new ArrayList();
-        List<Integer> ans = new ArrayList();
-        TreeNode t = new TreeNode(nums[nums.length-1]);
-        ans.add(0);
-            
-        for (int i=nums.length-2;i>=0;i--){
-            
-            ans.add(insert(t,nums[i]));
+        List<Integer> res = new LinkedList<Integer>();
+        if (nums == null || nums.length == 0) {
+            return res;
         }
-      Collections.reverse(ans) ; 
-     return ans;
+        // find min value and minus min by each elements, plus 1 to avoid 0 element
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        for (int i = 0; i < nums.length; i++) {
+            min = (nums[i] < min) ? nums[i]:min;
+        }
+        int[] nums2 = new int[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            nums2[i] = nums[i] - min + 1;
+            max = Math.max(nums2[i],max);
+        }
+        int[] tree = new int[max+1];
+        for (int i = nums2.length-1; i >= 0; i--) {
+            res.add(0,get(nums2[i]-1,tree));
+            update(nums2[i],tree);
+        }
+        return res;
     }
-    
-    public int insert (TreeNode a, int b){
-        
-        if(b==a.val){
-            a.count++;
-            return a.leftcount;
+    private int get(int i, int[] tree) {
+        int num = 0;
+        while (i > 0) {
+            num +=tree[i];
+            i -= i&(-i);
         }
-        
-        if(b<a.val){
-            a.leftcount++;
-            if(a.left==null){
-                a.left=new TreeNode(b);
-                return 0;
-            }
-            return insert(a.left,b);
-        }
-        
-        if(a.right==null){
-            a.right=new TreeNode(b);
-            return a.leftcount+a.count;
-        }
-        return a.leftcount+a.count+insert(a.right,b);
-        
-        
+        return num;
     }
-    
+    private void update(int i, int[] tree) {
+        while (i < tree.length) {
+            tree[i] ++;
+            i += i & (-i);
+        }
+    }
 }
