@@ -13,12 +13,15 @@ public class Solution {
     int left = 0, right = 0, count = p.length();
     
     while (right < s.length()) {
-        //move right everytime, if the character exists in p's hash, decrease the count
+       
+        hash[s.charAt(right)]--;
+        
+         //move right everytime, if the character exists in p's hash, decrease the count
         //current hash value >= 1 means the character is existing in p
-        if (hash[s.charAt(right)] >= 1) {
+        if (hash[s.charAt(right)] >= 0) {
             count--;
         }
-        hash[s.charAt(right)]--;
+        
         right++;
         
         //when the count is down to 0, means we found the right anagram
