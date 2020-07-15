@@ -5,7 +5,7 @@ class Solution {
       int mid = start + (end - start) / 2;
       if (nums[mid] == target) return mid;
       else if (nums[mid] >= nums[start]) {
-        if (target >= nums[start] && target < nums[mid]) end = mid - 1;
+        if (target >= nums[start] && target <= nums[mid]) end = mid - 1;
         else start = mid + 1;
       }
       else {
