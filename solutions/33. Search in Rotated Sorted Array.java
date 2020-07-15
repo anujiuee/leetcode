@@ -9,7 +9,7 @@ class Solution {
         else start = mid + 1;
       }
       else {
-        if (target <= nums[end] && target > nums[mid]) start = mid + 1;
+        if (target <= nums[end] && target >= nums[mid]) start = mid + 1;
         else end = mid - 1;
       }
     }
