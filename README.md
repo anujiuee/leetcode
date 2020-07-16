@@ -6,6 +6,7 @@
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](./solutions/5.%20Longest%20Palindromic%20Substring.java)|24 ms|
 |8|[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./solutions/8.%20String%20to%20Integer%20(atoi).java)|2 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.java)|0 ms|
+|45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./solutions/45.%20Jump%20Game%20II.java)|2 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Java](./solutions/76.%20Minimum%20Window%20Substring.java)|38 ms|
 |132|[ Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Java](./solutions/132.%20Palindrome%20Partitioning%20II.java)|8 ms|
 |253|[ Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Java](./solutions/253.%20Meeting%20Rooms%20II.java)|7 ms|
