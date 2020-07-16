@@ -1,20 +1,35 @@
 class Solution {
     public int minCut(String s) {
-         char[] c = s.toCharArray();
-    int n = c.length;
-    int[] cut = new int[n];
-    boolean[][] pal = new boolean[n][n];
-    
-    for(int i = 0; i < n; i++) {
-        int min = i;
-        for(int j = 0; j <= i; j++) {
-            if(c[j] == c[i] && (j + 1 > i - 1 || pal[j + 1][i - 1])) {
-                pal[j][i] = true;  
-                min = j == 0 ? 0 : Math.min(min, cut[j - 1] + 1);
+        
+        int n = s.length();
+        
+        boolean dp[][] = new boolean [n][n];
+        
+        int ans[]= new int [n];
+        
+        int min=0;
+        
+        for (int i=0;i<n;i++){
+            min=i;
+            for(int j=0;j<=i;j++){
+                
+                if(s.charAt(i)==s.charAt(j) && (i-j<2 || dp[j+1][i-1])){
+                    if(j==0) min=0;
+                    else {dp[j][i]=true;
+                  min=Math.min(min,ans[j-1]+1);}
+
+                } 
+                
             }
+            
+            ans[i]=min;
+            
         }
-        cut[i] = min;
+        
+        
+        
+        return ans[n-1];
     }
-    return cut[n - 1];
-    }
+    
+
 }
