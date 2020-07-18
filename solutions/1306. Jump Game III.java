@@ -4,7 +4,7 @@ class Solution {
         boolean [] isVisited = new boolean[n];
         Queue<Integer> q = new LinkedList();
         q.add(start);
-        isVisited[start]=true;
+       // isVisited[start]=true;
         
         while(!q.isEmpty()){
             int k = q.peek();
