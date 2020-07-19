@@ -23,4 +23,5 @@
 |802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./solutions/802.%20Find%20Eventual%20Safe%20States.java)|4 ms|
 |1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](./solutions/1254.%20Number%20of%20Closed%20Islands.java)|5 ms|
 |1376|[ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Java](./solutions/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.java)|82 ms|
+|1462|[ Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Java](./solutions/1462.%20Course%20Schedule%20IV.java)|76 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/1480.%20Running%20Sum%20of%201d%20Array.java)|0 ms|
