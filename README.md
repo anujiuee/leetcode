@@ -16,6 +16,7 @@
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|0 ms|
 |154|[ Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./solutions/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)|1 ms|
 |210|[ Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Java](./solutions/210.%20Course%20Schedule%20II.java)|5 ms|
+|236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)|5 ms|
 |253|[ Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Java](./solutions/253.%20Meeting%20Rooms%20II.java)|7 ms|
 |260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[Java](./solutions/260.%20Single%20Number%20III.java)|1 ms|
 |277|[ Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./solutions/277.%20Find%20the%20Celebrity.java)|21 ms|
