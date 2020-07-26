@@ -36,6 +36,7 @@
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Java](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.java)|4 ms|
 |802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./solutions/802.%20Find%20Eventual%20Safe%20States.java)|4 ms|
 |1060|[ Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Java](./solutions/1060.%20Missing%20Element%20in%20Sorted%20Array.java)|0 ms|
+|1145|[ Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Java](./solutions/1145.%20Binary%20Tree%20Coloring%20Game.java)|0 ms|
 |1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](./solutions/1254.%20Number%20of%20Closed%20Islands.java)|5 ms|
 |1262|[ Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](./solutions/1262.%20Greatest%20Sum%20Divisible%20by%20Three.java)|9 ms|
 |1376|[ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Java](./solutions/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.java)|82 ms|
