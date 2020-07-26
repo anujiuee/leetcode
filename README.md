@@ -13,6 +13,7 @@
 |79|[ Word Search](https://leetcode.com/problems/word-search/)|[Java](./solutions/79.%20Word%20Search.java)|4 ms|
 |132|[ Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Java](./solutions/132.%20Palindrome%20Partitioning%20II.java)|8 ms|
 |134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[Java](./solutions/134.%20Gas%20Station.java)|N/A|
+|139|[ Word Break](https://leetcode.com/problems/word-break/)|[Java](./solutions/139.%20Word%20Break.java)|6 ms|
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|0 ms|
 |154|[ Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./solutions/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)|1 ms|
 |210|[ Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Java](./solutions/210.%20Course%20Schedule%20II.java)|5 ms|
