@@ -37,6 +37,7 @@
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Java](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.java)|4 ms|
 |802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./solutions/802.%20Find%20Eventual%20Safe%20States.java)|4 ms|
 |877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[Java](./solutions/877.%20Stone%20Game.java)|0 ms|
+|1000|[ Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Java](./solutions/1000.%20Minimum%20Cost%20to%20Merge%20Stones.java)|2 ms|
 |1060|[ Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Java](./solutions/1060.%20Missing%20Element%20in%20Sorted%20Array.java)|0 ms|
 |1145|[ Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Java](./solutions/1145.%20Binary%20Tree%20Coloring%20Game.java)|0 ms|
 |1246|[ Palindrome Removal](https://leetcode.com/problems/palindrome-removal/)|[Java](./solutions/1246.%20Palindrome%20Removal.java)|27 ms|
