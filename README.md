@@ -29,6 +29,7 @@
 |315|[ Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](./solutions/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.java)|3 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](./solutions/354.%20Russian%20Doll%20Envelopes.java)|361 ms|
 |357|[ Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[Java](./solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.java)|0 ms|
+|437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./solutions/437.%20Path%20Sum%20III.java)|22 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.java)|17 ms|
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Java](./solutions/525.%20Contiguous%20Array.java)|43 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./solutions/543.%20Diameter%20of%20Binary%20Tree.java)|0 ms|
