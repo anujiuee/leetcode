@@ -58,6 +58,7 @@
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java)|24 ms|
 |1060|[ Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Java](./solutions/1060.%20Missing%20Element%20in%20Sorted%20Array.java)|0 ms|
 |1145|[ Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Java](./solutions/1145.%20Binary%20Tree%20Coloring%20Game.java)|0 ms|
+|1229|[ Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Java](./solutions/1229.%20Meeting%20Scheduler.java)||
 |1246|[ Palindrome Removal](https://leetcode.com/problems/palindrome-removal/)|[Java](./solutions/1246.%20Palindrome%20Removal.java)|27 ms|
 |1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](./solutions/1254.%20Number%20of%20Closed%20Islands.java)|5 ms|
 |1262|[ Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](./solutions/1262.%20Greatest%20Sum%20Divisible%20by%20Three.java)|9 ms|
