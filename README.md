@@ -19,6 +19,7 @@
 |106|[ Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](./solutions/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.java)|1 ms|
 |113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./solutions/113.%20Path%20Sum%20II.java)|1 ms|
 |115|[ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Java](./solutions/115.%20Distinct%20Subsequences.java)|N/A|
+|121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|1 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](./solutions/128.%20Longest%20Consecutive%20Sequence.java)|5 ms|
 |132|[ Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Java](./solutions/132.%20Palindrome%20Partitioning%20II.java)|8 ms|
 |134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[Java](./solutions/134.%20Gas%20Station.java)|N/A|
