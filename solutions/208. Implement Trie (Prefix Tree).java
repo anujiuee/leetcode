@@ -33,7 +33,7 @@ class Trie {
             Character c = word.charAt(i);
             if(temp.map.get(c) == null){
                 return false;
-            } else{
+            } else{
                 temp = temp.map.get(c);
             }
         }
@@ -45,3 +45,27 @@ class Trie {
     public boolean startsWith(String prefix) {
         Node temp = root;
         for(int i=0; i<prefix.length(); i++){
+            Character c = prefix.charAt(i);
+            if(temp.map.get(c) == null){
+                return false;
+            }   
+            
+            temp = temp.map.get(c);
+            
+        }
+        
+        return true;
+    }
+    
+    class Node{
+        Map<Character, Node> map;
+        boolean isWord;
+        
+        Node(){
+            map = new HashMap();
+        }
+    }
+}
+​
+/**
+ * Your Trie object will be instantiated and called as such:
