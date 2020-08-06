@@ -1,3 +1,27 @@
+class Solution {
+    public List<Integer> findDuplicates(int[] nums) {
+        
+        int n = nums.length;
+        
+        List<Integer> ans = new ArrayList();
+        
+        /*
+        
+        for (int i=0;i<nums.length;i++){
+           
+        nums[nums[i]%n]= nums[nums[i]%n]+n;
+            
+        }
+        
+       
+        
+        
+        List<Integer> ans = new ArrayList();
+        
+        if(n>0 && nums[0]>2*n){
+            ans.add(n);
+        }
+        
         
          for (int i=1;i<nums.length;i++){
              
