@@ -30,8 +30,3 @@ class Solution {
         if(root==null) return;
         map.put(level,root.val);
         traverse(root.left,map,level+1);
-        traverse(root.right,map,level+1);
-        
-    }
-    
-}
