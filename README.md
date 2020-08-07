@@ -56,6 +56,7 @@
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Java](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.java)|8 ms|
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Java](./solutions/525.%20Contiguous%20Array.java)|43 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./solutions/543.%20Diameter%20of%20Binary%20Tree.java)|0 ms|
+|545|[ Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|[Java](./solutions/545.%20Boundary%20of%20Binary%20Tree.java)|5 ms|
 |559|[ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Java](./solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree.java)|0 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./solutions/560.%20Subarray%20Sum%20Equals%20K.java)|27 ms|
 |572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](./solutions/572.%20Subtree%20of%20Another%20Tree.java)|6 ms|
