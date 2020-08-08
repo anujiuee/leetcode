@@ -16,6 +16,7 @@
 |45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./solutions/45.%20Jump%20Game%20II.java)|2 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[Java](./solutions/46.%20Permutations.java)|1 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./solutions/48.%20Rotate%20Image.java)|0 ms|
+|55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./solutions/55.%20Jump%20Game.java)|N/A|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|9 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./solutions/62.%20Unique%20Paths.java)|0 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Java](./solutions/76.%20Minimum%20Window%20Substring.java)|38 ms|
