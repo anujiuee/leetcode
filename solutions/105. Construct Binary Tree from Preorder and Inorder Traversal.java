@@ -1,18 +1,3 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
   // start from first preorder element
   int pre_idx = 0;
@@ -45,3 +30,11 @@ class Solution {
   public TreeNode buildTree(int[] preorder, int[] inorder) {
     this.preorder = preorder;
     this.inorder = inorder;
+​
+    // build a hashmap value -> its index
+    int idx = 0;
+    for (Integer val : inorder)
+      idx_map.put(val, idx++);
+    return helper(0, inorder.length);
+  }
+}
