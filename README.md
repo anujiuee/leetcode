@@ -52,7 +52,7 @@
 |357|[ Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[Java](./solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.java)|0 ms|
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java](./solutions/402.%20Remove%20K%20Digits.java)|17 ms|
 |406|[ Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Java](./solutions/406.%20Queue%20Reconstruction%20by%20Height.java)|22 ms|
-|437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./solutions/437.%20Path%20Sum%20III.java)|22 ms|
+|437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./solutions/437.%20Path%20Sum%20III.java)|20 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.java)|17 ms|
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Java](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.java)|8 ms|
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Java](./solutions/525.%20Contiguous%20Array.java)|43 ms|
