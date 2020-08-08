@@ -72,6 +72,7 @@
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./solutions/876.%20Middle%20of%20the%20Linked%20List.java)|0 ms|
 |877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[Java](./solutions/877.%20Stone%20Game.java)|0 ms|
 |937|[ Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Java](./solutions/937.%20Reorder%20Data%20in%20Log%20Files.java)|8 ms|
+|951|[ Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Java](./solutions/951.%20Flip%20Equivalent%20Binary%20Trees.java)|0 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](./solutions/973.%20K%20Closest%20Points%20to%20Origin.java)|22 ms|
 |981|[ Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](./solutions/981.%20Time%20Based%20Key-Value%20Store.java)|180 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.java)|N/A|
