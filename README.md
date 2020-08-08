@@ -11,6 +11,7 @@
 |17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](./solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java)|5 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./solutions/31.%20Next%20Permutation.java)|0 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.java)|0 ms|
+|34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|0 ms|
 |45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./solutions/45.%20Jump%20Game%20II.java)|2 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[Java](./solutions/46.%20Permutations.java)|1 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./solutions/48.%20Rotate%20Image.java)|0 ms|
