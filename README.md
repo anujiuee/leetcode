@@ -73,6 +73,7 @@
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|1 ms|
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Java](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.java)|4 ms|
 |802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./solutions/802.%20Find%20Eventual%20Safe%20States.java)|4 ms|
+|841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](./solutions/841.%20Keys%20and%20Rooms.java)|1 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./solutions/876.%20Middle%20of%20the%20Linked%20List.java)|0 ms|
 |877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[Java](./solutions/877.%20Stone%20Game.java)|0 ms|
 |937|[ Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Java](./solutions/937.%20Reorder%20Data%20in%20Log%20Files.java)|8 ms|
