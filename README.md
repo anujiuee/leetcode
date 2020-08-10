@@ -86,6 +86,7 @@
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](./solutions/973.%20K%20Closest%20Points%20to%20Origin.java)|22 ms|
 |981|[ Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](./solutions/981.%20Time%20Based%20Key-Value%20Store.java)|180 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.java)|N/A|
+|994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./solutions/994.%20Rotting%20Oranges.java)|N/A|
 |1000|[ Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Java](./solutions/1000.%20Minimum%20Cost%20to%20Merge%20Stones.java)|2 ms|
 |1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Java](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.java)|0 ms|
 |1031|[ Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](./solutions/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.java)|5 ms|
