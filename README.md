@@ -93,6 +93,7 @@
 |951|[ Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Java](./solutions/951.%20Flip%20Equivalent%20Binary%20Trees.java)|0 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](./solutions/973.%20K%20Closest%20Points%20to%20Origin.java)|22 ms|
 |981|[ Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](./solutions/981.%20Time%20Based%20Key-Value%20Store.java)|180 ms|
+|983|[ Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Java](./solutions/983.%20Minimum%20Cost%20For%20Tickets.java)|1 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.java)|N/A|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./solutions/994.%20Rotting%20Oranges.java)|N/A|
 |1000|[ Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Java](./solutions/1000.%20Minimum%20Cost%20to%20Merge%20Stones.java)|2 ms|
