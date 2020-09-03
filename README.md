@@ -74,6 +74,7 @@
 |437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./solutions/437.%20Path%20Sum%20III.java)|20 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.java)|17 ms|
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Java](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.java)|8 ms|
+|459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Java](./solutions/459.%20Repeated%20Substring%20Pattern.java)|6 ms|
 |484|[ Find Permutation](https://leetcode.com/problems/find-permutation/)|[Java](./solutions/484.%20Find%20Permutation.java)|6 ms|
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Java](./solutions/525.%20Contiguous%20Array.java)|43 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./solutions/543.%20Diameter%20of%20Binary%20Tree.java)|0 ms|
