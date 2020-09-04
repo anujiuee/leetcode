@@ -23,5 +23,10 @@ class Solution {
         int l = dp[n - 1];
         // check if it's repeated pattern string
         return l != 0 && n % (n - l) == 0;
+        
+        /*
+        
+        return (s + s).substring(1, 2 * s.length() - 1).contains(s);
+        */
     }
 }
