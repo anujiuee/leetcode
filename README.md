@@ -63,6 +63,7 @@
 |315|[ Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](./solutions/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.java)|3 ms|
 |341|[ Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Java](./solutions/341.%20Flatten%20Nested%20List%20Iterator.java)|2 ms|
 |342|[ Power of Four](https://leetcode.com/problems/power-of-four/)|[Java](./solutions/342.%20Power%20of%20Four.java)|N/A|
+|346|[ Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[Java](./solutions/346.%20Moving%20Average%20from%20Data%20Stream.java)|42 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](./solutions/354.%20Russian%20Doll%20Envelopes.java)|272 ms|
 |357|[ Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[Java](./solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.java)|0 ms|
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java](./solutions/402.%20Remove%20K%20Digits.java)|17 ms|
