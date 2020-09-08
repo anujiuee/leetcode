@@ -103,6 +103,7 @@
 |981|[ Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](./solutions/981.%20Time%20Based%20Key-Value%20Store.java)|180 ms|
 |983|[ Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Java](./solutions/983.%20Minimum%20Cost%20For%20Tickets.java)|1 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.java)|N/A|
+|990|[ Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Java](./solutions/990.%20Satisfiability%20of%20Equality%20Equations.java)|0 ms|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./solutions/994.%20Rotting%20Oranges.java)|N/A|
 |1000|[ Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Java](./solutions/1000.%20Minimum%20Cost%20to%20Merge%20Stones.java)|2 ms|
 |1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Java](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.java)|0 ms|
