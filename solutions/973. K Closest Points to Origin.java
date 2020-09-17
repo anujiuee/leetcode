@@ -1,7 +1,12 @@
+import java.util.concurrent.ThreadLocalRandom;
+​
+class Solution {
+    int[][] points;
+    public int[][] kClosest(int[][] points, int K) {
         this.points = points;
         sort(0, points.length - 1, K);
         return Arrays.copyOfRange(points, 0, K);
-    }
+    }
 ​
     public void sort(int i, int j, int K) {
         if (i >= j) return;
@@ -32,8 +37,8 @@
         swap(oi, j);
         return j;
     }
-    
-     public int dist(int i) {
+​
+    public int dist(int i) {
         return points[i][0] * points[i][0] + points[i][1] * points[i][1];
     }
 ​
@@ -43,6 +48,3 @@
         points[i][1] = points[j][1];
         points[j][0] = t0;
         points[j][1] = t1;
-    }
-​
-}
