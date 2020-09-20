@@ -1,13 +1,3 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
-class Solution {
     
     class Node implements Comparable<Node>{
     int w, d, val;
@@ -64,3 +54,13 @@ class Solution {
             list.add(n);
             map.put(w, list);
         } else{
+            Node n = new Node(w, d, node.val);
+            List<Node> temp = map.get(w);
+            temp.add(n);
+            map.put(w, temp);
+        }
+        
+        helper(node.left, map, w-1, d+1);
+        helper(node.right, map, w+1, d+1);
+    }
+}
