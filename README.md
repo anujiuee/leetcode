@@ -49,6 +49,7 @@
 |200|[ Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./solutions/200.%20Number%20of%20Islands.java)|4 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./solutions/203.%20Remove%20Linked%20List%20Elements.java)|1 ms|
 |208|[ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./solutions/208.%20Implement%20Trie%20(Prefix%20Tree).java)|43 ms|
+|209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.java)|1 ms|
 |210|[ Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Java](./solutions/210.%20Course%20Schedule%20II.java)|5 ms|
 |211|[ Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Java](./solutions/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.java)|76 ms|
 |212|[ Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](./solutions/212.%20Word%20Search%20II.java)|454 ms|
