@@ -88,7 +88,7 @@
 |516|[ Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](./solutions/516.%20Longest%20Palindromic%20Subsequence.java)|37 ms|
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Java](./solutions/525.%20Contiguous%20Array.java)|43 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./solutions/543.%20Diameter%20of%20Binary%20Tree.java)|0 ms|
-|545|[ Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|[Java](./solutions/545.%20Boundary%20of%20Binary%20Tree.java)|5 ms|
+|545|[ Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|[Java](./solutions/545.%20Boundary%20of%20Binary%20Tree.java)|2 ms|
 |547|[ Friend Circles](https://leetcode.com/problems/friend-circles/)|[Java](./solutions/547.%20Friend%20Circles.java)|0 ms|
 |559|[ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Java](./solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree.java)|0 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./solutions/560.%20Subarray%20Sum%20Equals%20K.java)|13 ms|
