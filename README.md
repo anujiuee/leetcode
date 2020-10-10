@@ -82,6 +82,7 @@
 |437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./solutions/437.%20Path%20Sum%20III.java)|20 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.java)|17 ms|
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Java](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.java)|8 ms|
+|452|[ Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Java](./solutions/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.java)|24 ms|
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Java](./solutions/459.%20Repeated%20Substring%20Pattern.java)|7 ms|
 |472|[ Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Java](./solutions/472.%20Concatenated%20Words.java)|342 ms|
 |484|[ Find Permutation](https://leetcode.com/problems/find-permutation/)|[Java](./solutions/484.%20Find%20Permutation.java)|6 ms|
