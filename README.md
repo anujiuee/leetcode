@@ -39,6 +39,7 @@
 |134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[Java](./solutions/134.%20Gas%20Station.java)|N/A|
 |139|[ Word Break](https://leetcode.com/problems/word-break/)|[Java](./solutions/139.%20Word%20Break.java)|6 ms|
 |146|[ LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./solutions/146.%20LRU%20Cache.java)|18 ms|
+|148|[ Sort List](https://leetcode.com/problems/sort-list/)|[Java](./solutions/148.%20Sort%20List.java)|3 ms|
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|0 ms|
 |154|[ Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./solutions/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)|1 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./solutions/162.%20Find%20Peak%20Element.java)|0 ms|
