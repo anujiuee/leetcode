@@ -128,6 +128,7 @@
 |1031|[ Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](./solutions/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.java)|5 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java)|24 ms|
 |1060|[ Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Java](./solutions/1060.%20Missing%20Element%20in%20Sorted%20Array.java)|0 ms|
+|1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Java](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.java)|92 ms|
 |1120|[ Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|[Java](./solutions/1120.%20Maximum%20Average%20Subtree.java)|0 ms|
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](./solutions/1143.%20Longest%20Common%20Subsequence.java)|9 ms|
 |1145|[ Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Java](./solutions/1145.%20Binary%20Tree%20Coloring%20Game.java)|0 ms|
