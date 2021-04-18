@@ -20,6 +20,7 @@
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./solutions/48.%20Rotate%20Image.java)|0 ms|
 |55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./solutions/55.%20Jump%20Game.java)|N/A|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|9 ms|
+|57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[Java](./solutions/57.%20Insert%20Interval.java)|1 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./solutions/62.%20Unique%20Paths.java)|0 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Java](./solutions/64.%20Minimum%20Path%20Sum.java)|2 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Java](./solutions/76.%20Minimum%20Window%20Substring.java)|38 ms|
