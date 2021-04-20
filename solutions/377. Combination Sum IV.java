@@ -1,20 +1,14 @@
 class Solution {
-    public int combinationSum4(int[] coins, int amount) {
-         int[] temp=new int[amount+1];
-        temp[0]=1;
-        
-        for(int i=1;i<=amount;i++){
-            
-          for(int j=0;j<coins.length;j++){
-            
-            if(i>=coins[j]){
-               temp[i]= temp[i-coins[j]]+temp[i];
-            }
-            
-        }   
-            
-        }
-        
-        return temp[amount];
-    }
+    public int combinationSum4(int[] nums, int target) {
+        int[] dp = new int[target + 1];
+        dp[0] = 1;
+        for (int i = 1; i <= target; i++) {
+            for (int n : nums) {
+                if (i >= n) {
+                    dp[i] += dp[i - n];
+                }
+            }
+        }
+        return dp[target];
+    }
 }
