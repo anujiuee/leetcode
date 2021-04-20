@@ -77,6 +77,7 @@
 |346|[ Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[Java](./solutions/346.%20Moving%20Average%20from%20Data%20Stream.java)|42 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](./solutions/354.%20Russian%20Doll%20Envelopes.java)|272 ms|
 |357|[ Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[Java](./solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.java)|0 ms|
+|377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java](./solutions/377.%20Combination%20Sum%20IV.java)|1 ms|
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java](./solutions/402.%20Remove%20K%20Digits.java)|17 ms|
 |403|[ Frog Jump](https://leetcode.com/problems/frog-jump/)|[Java](./solutions/403.%20Frog%20Jump.java)|77 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Java](./solutions/404.%20Sum%20of%20Left%20Leaves.java)|0 ms|
