@@ -93,6 +93,7 @@
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Java](./solutions/459.%20Repeated%20Substring%20Pattern.java)|7 ms|
 |472|[ Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Java](./solutions/472.%20Concatenated%20Words.java)|342 ms|
 |484|[ Find Permutation](https://leetcode.com/problems/find-permutation/)|[Java](./solutions/484.%20Find%20Permutation.java)|6 ms|
+|489|[ Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Java](./solutions/489.%20Robot%20Room%20Cleaner.java)|3 ms|
 |510|[ Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|[Java](./solutions/510.%20Inorder%20Successor%20in%20BST%20II.java)|64 ms|
 |516|[ Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](./solutions/516.%20Longest%20Palindromic%20Subsequence.java)|37 ms|
 |518|[ Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](./solutions/518.%20Coin%20Change%202.java)|3 ms|
