@@ -110,6 +110,7 @@
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Java](./solutions/687.%20Longest%20Univalue%20Path.java)||
 |692|[ Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](./solutions/692.%20Top%20K%20Frequent%20Words.java)|5 ms|
 |695|[ Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java](./solutions/695.%20Max%20Area%20of%20Island.java)|2 ms|
+|696|[ Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Java](./solutions/696.%20Count%20Binary%20Substrings.java)|11 ms|
 |705|[ Design HashSet](https://leetcode.com/problems/design-hashset/)|[Java](./solutions/705.%20Design%20HashSet.java)|14 ms|
 |712|[ Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[Java](./solutions/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.java)|19 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](./solutions/763.%20Partition%20Labels.java)|5 ms|
