@@ -142,6 +142,7 @@
 |1120|[ Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|[Java](./solutions/1120.%20Maximum%20Average%20Subtree.java)|0 ms|
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](./solutions/1143.%20Longest%20Common%20Subsequence.java)|9 ms|
 |1145|[ Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Java](./solutions/1145.%20Binary%20Tree%20Coloring%20Game.java)|0 ms|
+|1192|[ Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Java](./solutions/1192.%20Critical%20Connections%20in%20a%20Network.java)|305 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Java](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.java)|24 ms|
 |1229|[ Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Java](./solutions/1229.%20Meeting%20Scheduler.java)||
 |1246|[ Palindrome Removal](https://leetcode.com/problems/palindrome-removal/)|[Java](./solutions/1246.%20Palindrome%20Removal.java)|27 ms|
