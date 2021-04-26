@@ -138,6 +138,7 @@
 |1022|[ Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](./solutions/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.java)|0 ms|
 |1031|[ Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Java](./solutions/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.java)|5 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java)|24 ms|
+|1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./solutions/1048.%20Longest%20String%20Chain.java)|35 ms|
 |1060|[ Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Java](./solutions/1060.%20Missing%20Element%20in%20Sorted%20Array.java)|0 ms|
 |1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Java](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.java)|92 ms|
 |1120|[ Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|[Java](./solutions/1120.%20Maximum%20Average%20Subtree.java)|0 ms|
