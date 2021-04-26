@@ -115,6 +115,7 @@
 |696|[ Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Java](./solutions/696.%20Count%20Binary%20Substrings.java)|11 ms|
 |705|[ Design HashSet](https://leetcode.com/problems/design-hashset/)|[Java](./solutions/705.%20Design%20HashSet.java)|14 ms|
 |712|[ Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[Java](./solutions/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.java)|19 ms|
+|740|[ Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Java](./solutions/740.%20Delete%20and%20Earn.java)|2 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](./solutions/763.%20Partition%20Labels.java)|5 ms|
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Java](./solutions/767.%20Reorganize%20String.java)|0 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|1 ms|
