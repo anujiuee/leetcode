@@ -154,3 +154,4 @@
 |1462|[ Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Java](./solutions/1462.%20Course%20Schedule%20IV.java)|76 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/1480.%20Running%20Sum%20of%201d%20Array.java)|0 ms|
 |1533|[ Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/)|[Java](./solutions/1533.%20Find%20the%20Index%20of%20the%20Large%20Integer.java)|4 ms|
+|1642|[ Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[Java](./solutions/1642.%20Furthest%20Building%20You%20Can%20Reach.java)|18 ms|
